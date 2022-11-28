@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #1B244A;
+    background-color: #1e2153;
 }
 
 .container {
@@ -33,7 +33,6 @@ body {
     top: 125px;
     background: #080001;
     border-radius: 5px;
-    font-family: 'Cursed Timer ULiL';
     font-style: normal;
     font-weight: 400;
     font-size: 90px;
@@ -55,7 +54,6 @@ button {
     border-radius: 5px;
     background-color: #1B244A;
     color: white;
-    font-family: 'CursedTimerUlil-Az.tff';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -92,6 +90,7 @@ h3 {
     margin-right: auto;
     align-content: center;
     background-color: #F94F6D;
+    font-family: 'Graduate', cursive;
     color: black;
     font-weight: bold;
 }
